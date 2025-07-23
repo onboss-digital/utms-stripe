@@ -51,6 +51,7 @@ for (const key in utms) {
           quantity: 1,
         },
       ],
+      locale: 'es', 
       success_url: 'https://web.snaphubb.online/obg2/',
       cancel_url: 'https://web.snaphubb.online/fail/',
       subscription_data: {
