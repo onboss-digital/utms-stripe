@@ -47,7 +47,7 @@ for (const key in utms) {
       mode: 'subscription',
       line_items: [
         {
-          price: 'price_1RdwXnJNRVv3P4xYmHPWdEWR',
+          price: 'price_1RfQiWJNRVv3P4xY9CunOBGo',
           quantity: 1,
         },
       ],
